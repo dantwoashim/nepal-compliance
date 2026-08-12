@@ -1,4 +1,9 @@
-<h1 align="center"><a href="https://erpnepal.org">Nepal Compliance</a></h1>
+> **Fork status:** This is my fork of
+> [`yarsa/nepal-compliance`](https://github.com/yarsa/nepal-compliance). I use it
+> to follow and test Nepal-specific ERPNext compliance work. Upstream remains
+> the source for releases, support, and contribution decisions.
+
+<h1 align="center"><a href="https://github.com/yarsa/nepal-compliance">Nepal Compliance</a></h1>
 <p align="center">
   Open source ERP Solution for Nepalese businesses with HR, Payroll & Accounting compliance.
   <br/>
